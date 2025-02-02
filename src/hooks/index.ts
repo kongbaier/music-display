@@ -1,0 +1,1 @@
+export { useLyricsControl } from "./useLyricsControl";
